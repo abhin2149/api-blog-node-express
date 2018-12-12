@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94d378ac-fe88-4415-a83c-99ce3e13ab1f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/api-design-node-step-12-fix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/category/categoryController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/category/categoryModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/category/categoryRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/post/postController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/post/postModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/post/postRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/user/userController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/user/userModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/user/userRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/auth/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/auth/controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/auth/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/development.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/production.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/testing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/middleware/appMiddlware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/util/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/util/seed.js" afterDir="false" />
-    </list>
+    <list default="true" id="94d378ac-fe88-4415-a83c-99ce3e13ab1f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -48,16 +14,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="153">
               <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userController.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="userController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/api/user/userController.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -163,17 +129,18 @@
       <option name="presentableId" value="Default" />
       <updated>1544603944965</updated>
       <workItem from="1544603946213" duration="692000" />
-      <workItem from="1544615009091" duration="1205000" />
+      <workItem from="1544615009091" duration="1790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1897000" />
+    <option name="totallyTimeSpent" value="2482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16314399" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16314399" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -181,7 +148,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,15 +180,15 @@
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/api/user/userController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="153">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/api/user/userController.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
